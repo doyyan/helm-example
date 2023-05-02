@@ -3,12 +3,12 @@ entries:
   my-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-02T22:03:22.544551+01:00"
+    created: "2023-05-02T22:08:41.106592+01:00"
     description: A Helm chart for Kubernetes
     digest: 43cbb0b11b86e9553e2c0430e7ecf917810e45e3bd444f1a5d6d4c1b55d712c1
     name: my-app
     type: application
     urls:
-    - https://github.com/doyyan/helm-example.git/my-app-0.1.0.tgz
+    - https://doyyan.github.io/helm-example/my-app-0.1.0.tgz
     version: 0.1.0
-generated: "2023-05-02T22:03:22.534657+01:00"
+generated: "2023-05-02T22:08:41.105664+01:00"
